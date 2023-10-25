@@ -32,8 +32,9 @@
    4. Обратите внимание, что вам может потребоваться настроить контейнер, чтобы он имел доступ к интернету и мог взаимодействовать с серверами Telegram. Подробности зависят от вашей конкретной конфигурации.
    5. Теперь можно проверить работу бота в Telegram.
   ## Ссылки:
-  #Docker_Hub: https://hub.docker.com/repository/docker/senzor/my-telegram-bot/general
-  #Git_Hub: https://github.com/arsen11yy/Adding-a-program-to-the-Docker-container
+  1. Docker_Hub: https://hub.docker.com/repository/docker/senzor/my-telegram-bot/general
+  
+  2. Git_Hub: https://github.com/arsen11yy/Adding-a-program-to-the-Docker-container
 
 ## Скрин Telegram_BOT:
 ![image](https://github.com/arsen11yy/Adding-a-program-to-the-Docker-container/assets/112753125/2fd301d1-67f1-417f-9060-c0eb2a887609)
